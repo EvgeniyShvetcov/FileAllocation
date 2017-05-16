@@ -1,0 +1,4 @@
+﻿  FileAllocation.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  FileAllocation.vcxproj -> C:\Users\Jane\Desktop\Visual Studio\FileAllocation\Debug\FileAllocation.exe
+  FileAllocation.vcxproj -> C:\Users\Jane\Desktop\Visual Studio\FileAllocation\Debug\FileAllocation.pdb (Partial PDB)
